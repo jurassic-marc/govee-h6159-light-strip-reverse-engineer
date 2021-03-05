@@ -1,0 +1,1 @@
+gatttool -b A4:C1:38:F5:02:DB --char-write-req --handle 0x0015 --value 330502FF000000000000000000000000000000CB > /dev/null
